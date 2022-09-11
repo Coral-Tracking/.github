@@ -3,8 +3,6 @@
   <img width="300px" src="https://github.com/Coral-Tracking/.github/blob/main/profile/assets/Coral%20Tracking%20Team%20Logo.png" />
 </p>
 
-## Hi there 👋
-
 ## Team members:
 - Rahman Nurhidayat (1942492)
 - Rio Adiwijaya (1942543)
