@@ -1,4 +1,7 @@
 # Coral Tracking
+<p align="center">
+  <img width="300px" src="https://github.com/Coral-Tracking/.github/blob/main/profile/assets/Coral%20Tracking%20Team%20Logo.png" />
+</p>
 
 ## Hi there 👋
 
@@ -9,10 +12,10 @@
 - Maulana Yusuf (2042409)
 
 ## Collaborated (division)
-- FrontEnd - Mobile Developement(Flutter)
-- BackEnd - REST API (MongoDB, ExpressJs & Flask)
-- Cloud - Google Cloud Platform (Google Storage, Cloud Run & App Engine)
-- Machine Learning - Classification (Python, Tensorflow, Keras & Jupyter Notebook)
+- Frontend - Mobile Developement(Flutter) ([repository](https://github.com/Coral-Tracking/mobile-development))
+- Backend - REST API (MongoDB, ExpressJs & Flask) ([repository](https://github.com/Coral-Tracking/rest-api))
+- Cloud - Google Cloud Platform (Google Storage, Cloud Run & App Engine) ([repository](https://github.com/Coral-Tracking/cloud))
+- Machine Learning - Classification (Python, Tensorflow, Keras & Jupyter Notebook) ([repository](https://github.com/Coral-Tracking/machine-learning))
 
 ## Get Application
 Link: 
