@@ -16,7 +16,7 @@
 - Machine Learning - Classification (Python, Tensorflow, Keras & Jupyter Notebook) ([repository](https://github.com/Coral-Tracking/machine-learning))
 
 ## Get Application
-Link: 
+Get the application [here](https://drive.google.com/file/d/1BG33AcggCLvpJV33x0iVZ3VaHKP4H8qm/view?usp=sharing)
 
 ## Demo Application
-GIF or Video
+Get the video demo application [here](https://drive.google.com/file/d/1AHY6-K-ikmsil0yE4n0qVn6KOBoOc3Hd/view?usp=sharing)
